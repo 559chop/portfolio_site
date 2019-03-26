@@ -1,4 +1,4 @@
-# portfolio_site
+# Portfolio Website
 Thien Nguyen
 
 ## Built with
