@@ -1,6 +1,6 @@
 ## portfolio_site
 
-#Built with
+# Built with
 * React
 * React Router
 * Styled Component
