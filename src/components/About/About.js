@@ -148,10 +148,10 @@ const About = () => (
             <Styled.Paragraph
               white
             >
-              Designing for the web is not a job ,it's a lifestyle. As technology evolves, so does the challenge. I have a passion for learning new technologies and updating my skillset. I love bringing my designs to life in HTML, CSS & Javascript, also acting like a mad scientist.
+              Designing for the web is not a job, it's a lifestyle. As technology evolves, so does the challenge. I have a passion for learning new technologies and updating my skillset. I love bringing my designs to life in HTML, CSS & Javascript, also acting like a mad scientist.
               <br></br>
               <br></br>
-              So in the last year and half I learned a lot of cool stuff related to front-end and back-end development. I used that knowledge to build my portfolio and this website. I know a lot about NodeJS, ExpressJS, MongoDB, jQuery, React, Redux, Bootstrap, HTML, CSS, CSS-in-JS, responsive design, progressive enhancement, a11y, mobile-first design, module bundling, RESTful architecture, API's and more.
+              So in the last year and half I learned a lot of cool stuff related to front-end and back-end development. I used that knowledge to build my portfolio and this website. I have learned a few things about NodeJS, ExpressJS, MongoDB, jQuery, React, Redux, Bootstrap, HTML, CSS, CSS-in-JS, responsive design, progressive enhancement, a11y, mobile-first design, module bundling, RESTful architecture, API's and more.
             </Styled.Paragraph>
           </Col>
         </Row>
