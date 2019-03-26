@@ -1,6 +1,7 @@
-## portfolio_site
+# portfolio_site
+Thien Nguyen
 
-# Built with
+## Built with
 * React
 * React Router
 * Styled Component
