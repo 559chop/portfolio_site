@@ -269,7 +269,7 @@ const Portfolio = () => (
                 </span>
               </a>
               <a 
-                href="https://skipdisk.github.io/portfolio_site/"
+                href="/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="portolio site"
